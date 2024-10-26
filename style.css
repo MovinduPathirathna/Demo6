@@ -1,0 +1,21 @@
+.title{
+    background-color: gray;
+    color: white;
+    font-family: 'Calibri';
+    font-size: 5vh;
+    height: 20vh;
+    text-align: center;
+    align-content: center;
+}
+
+body{
+    background-image: url(/img/04d1884469ff74eb1fb8b56c0c15a3d0.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0%;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
